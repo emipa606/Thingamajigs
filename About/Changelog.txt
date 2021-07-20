@@ -1,4 +1,7 @@
 # Changelog for Thingamajigs
 
+1.0.1.0 - Updated for 1.3, dependency not updated but verified to work.
+
+
 1.0.0.0 - First publish
 
