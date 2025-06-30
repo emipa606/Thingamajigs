@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: nail -->
+  <Nail_naillet.label>nail</Nail_naillet.label>
+  <!-- EN: Nailgun -->
+  <Nailletgun.label>Nailgun</Nailletgun.label>
+  <!-- EN: Your usual pneumatic nailgun. -->
+  <Nailletgun.description>Your usual pneumatic nailgun.</Nailletgun.description>
+  <!-- EN: grip -->
+  <Nailletgun.tools.grip.label>grip</Nailletgun.tools.grip.label>
+  <!-- EN: barrel -->
+  <Nailletgun.tools.barrel.label>barrel</Nailletgun.tools.barrel.label>
+  <!-- EN: Nailgun -->
+  <Nailletgun.verbs.Verb_Shoot.label>Nailgun</Nailletgun.verbs.Verb_Shoot.label>
+</LanguageData>

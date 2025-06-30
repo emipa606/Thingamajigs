@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Bonesaw -->
+  <MeleeWeaponry_Bonesaw.label>Bonesaw</MeleeWeaponry_Bonesaw.label>
+  <!-- EN: Theres never a dull moment with a doctor armed with this and their favourite phrases at the ready. "Trust me! You won't feel a thing" And "Oops, is this supposed to bleed so much?". -->
+  <MeleeWeaponry_Bonesaw.description>Theres never a dull moment with a doctor armed with this and their favourite phrases at the ready. "Trust me! You won't feel a thing" And "Oops, is this supposed to bleed so much?".</MeleeWeaponry_Bonesaw.description>
+  <!-- EN: handle -->
+  <MeleeWeaponry_Bonesaw.tools.handle.label>handle</MeleeWeaponry_Bonesaw.tools.handle.label>
+  <!-- EN: edge -->
+  <MeleeWeaponry_Bonesaw.tools.edge.label>edge</MeleeWeaponry_Bonesaw.tools.edge.label>
+  <!-- EN: Breadknife -->
+  <MeleeWeaponry_Breadener.label>Breadknife</MeleeWeaponry_Breadener.label>
+  <!-- EN: Your favourite tool for cutting bread and ending quarrels. -->
+  <MeleeWeaponry_Breadener.description>Your favourite tool for cutting bread and ending quarrels.</MeleeWeaponry_Breadener.description>
+  <!-- EN: handle -->
+  <MeleeWeaponry_Breadener.tools.handle.label>handle</MeleeWeaponry_Breadener.tools.handle.label>
+  <!-- EN: point -->
+  <MeleeWeaponry_Breadener.tools.point.label>point</MeleeWeaponry_Breadener.tools.point.label>
+  <!-- EN: edge -->
+  <MeleeWeaponry_Breadener.tools.edge.label>edge</MeleeWeaponry_Breadener.tools.edge.label>
+  <!-- EN: Chiphook -->
+  <MeleeWeaponry_Chipper.label>Chiphook</MeleeWeaponry_Chipper.label>
+  <!-- EN: What is a stone, eh? you cut it, you mold it, you chip it with a chiphook. Some say it's ruining a perfectly good stone; Others say it's art. -->
+  <MeleeWeaponry_Chipper.description>What is a stone, eh? you cut it, you mold it, you chip it with a chiphook. Some say it's ruining a perfectly good stone; Others say it's art.</MeleeWeaponry_Chipper.description>
+  <!-- EN: handle -->
+  <MeleeWeaponry_Chipper.tools.handle.label>handle</MeleeWeaponry_Chipper.tools.handle.label>
+  <!-- EN: point -->
+  <MeleeWeaponry_Chipper.tools.point.label>point</MeleeWeaponry_Chipper.tools.point.label>
+  <!-- EN: Meat cleaver -->
+  <MeleeWeaponry_Cleaverer.label>Meat cleaver</MeleeWeaponry_Cleaverer.label>
+  <!-- EN: Tool designed to separate meat from bones and casting menacing shadows through shower curtains. -->
+  <MeleeWeaponry_Cleaverer.description>Tool designed to separate meat from bones and casting menacing shadows through shower curtains.</MeleeWeaponry_Cleaverer.description>
+  <!-- EN: handle -->
+  <MeleeWeaponry_Cleaverer.tools.handle.label>handle</MeleeWeaponry_Cleaverer.tools.handle.label>
+  <!-- EN: edge -->
+  <MeleeWeaponry_Cleaverer.tools.edge.label>edge</MeleeWeaponry_Cleaverer.tools.edge.label>
+  <!-- EN: Riding crop -->
+  <MeleeWeaponry_Croppy.label>Riding crop</MeleeWeaponry_Croppy.label>
+  <!-- EN: While virtually useless as a weapon, Riding crops have proven to give extremely dominant image of the wielder, and thus speeding up the recruitment and taming process. -->
+  <MeleeWeaponry_Croppy.description>While virtually useless as a weapon, Riding crops have proven to give extremely dominant image of the wielder, and thus speeding up the recruitment and taming process.</MeleeWeaponry_Croppy.description>
+  <!-- EN: crop -->
+  <MeleeWeaponry_Croppy.tools.crop.label>crop</MeleeWeaponry_Croppy.tools.crop.label>
+  <!-- EN: Machete -->
+  <MeleeWeaponry_Danny.label>Machete</MeleeWeaponry_Danny.label>
+  <!-- EN: Meant to be used for clearing path in dense jungles, Nowadays mostly used for clearing density from someone's shoulders. -->
+  <MeleeWeaponry_Danny.description>Meant to be used for clearing path in dense jungles, Nowadays mostly used for clearing density from someone's shoulders.</MeleeWeaponry_Danny.description>
+  <!-- EN: handle -->
+  <MeleeWeaponry_Danny.tools.handle.label>handle</MeleeWeaponry_Danny.tools.handle.label>
+  <!-- EN: point -->
+  <MeleeWeaponry_Danny.tools.point.label>point</MeleeWeaponry_Danny.tools.point.label>
+  <!-- EN: edge -->
+  <MeleeWeaponry_Danny.tools.edge.label>edge</MeleeWeaponry_Danny.tools.edge.label>
+  <!-- EN: Cane -->
+  <MeleeWeaponry_DeckardCane.label>Cane</MeleeWeaponry_DeckardCane.label>
+  <!-- EN: Cane with a heavy knob as a handle. Makes the user seem all the more respectable and very suave. Also helps them keep on their feet. -->
+  <MeleeWeaponry_DeckardCane.description>Cane with a heavy knob as a handle. Makes the user seem all the more respectable and very suave. Also helps them keep on their feet.</MeleeWeaponry_DeckardCane.description>
+  <!-- EN: handle -->
+  <MeleeWeaponry_DeckardCane.tools.handle.label>handle</MeleeWeaponry_DeckardCane.tools.handle.label>
+  <!-- EN: head -->
+  <MeleeWeaponry_DeckardCane.tools.head.label>head</MeleeWeaponry_DeckardCane.tools.head.label>
+  <!-- EN: Mechano-Wrench -->
+  <MeleeWeaponry_MankiWrench.label>Mechano-Wrench</MeleeWeaponry_MankiWrench.label>
+  <!-- EN: Ginormous wrench, mainly used in spaceship maintenance but could technically be applied to mechanoid disassembly process -->
+  <MeleeWeaponry_MankiWrench.description>Ginormous wrench, mainly used in spaceship maintenance but could technically be applied to mechanoid disassembly process</MeleeWeaponry_MankiWrench.description>
+  <!-- EN: handle -->
+  <MeleeWeaponry_MankiWrench.tools.handle.label>handle</MeleeWeaponry_MankiWrench.tools.handle.label>
+  <!-- EN: head -->
+  <MeleeWeaponry_MankiWrench.tools.head.label>head</MeleeWeaponry_MankiWrench.tools.head.label>
+  <!-- EN: Tailorer 3000 -->
+  <MeleeWeaponry_Needler.label>Tailorer 3000</MeleeWeaponry_Needler.label>
+  <!-- EN: Ginormous needle with attached scissors. It's not known what kind of twisted mind conjured up this tool but it's been found to be efficient at what it does. -->
+  <MeleeWeaponry_Needler.description>Ginormous needle with attached scissors. It's not known what kind of twisted mind conjured up this tool but it's been found to be efficient at what it does.</MeleeWeaponry_Needler.description>
+  <!-- EN: point -->
+  <MeleeWeaponry_Needler.tools.point.label>point</MeleeWeaponry_Needler.tools.point.label>
+  <!-- EN: Pneumatic Pick -->
+  <MeleeWeaponry_Pickle.label>Pneumatic Pick</MeleeWeaponry_Pickle.label>
+  <!-- EN: Reliable and deadly mining tool. -->
+  <MeleeWeaponry_Pickle.description>Reliable and deadly mining tool.</MeleeWeaponry_Pickle.description>
+  <!-- EN: handle -->
+  <MeleeWeaponry_Pickle.tools.handle.label>handle</MeleeWeaponry_Pickle.tools.handle.label>
+  <!-- EN: point -->
+  <MeleeWeaponry_Pickle.tools.point.label>point</MeleeWeaponry_Pickle.tools.point.label>
+  <!-- EN: Spatula -->
+  <MeleeWeaponry_Spatula.label>Spatula</MeleeWeaponry_Spatula.label>
+  <!-- EN: The most cheftacular equipment for cooking. Or shaming your rivals with it's majestic slap. -->
+  <MeleeWeaponry_Spatula.description>The most cheftacular equipment for cooking. Or shaming your rivals with it's majestic slap.</MeleeWeaponry_Spatula.description>
+  <!-- EN: head -->
+  <MeleeWeaponry_Spatula.tools.head.label>head</MeleeWeaponry_Spatula.tools.head.label>
+</LanguageData>
